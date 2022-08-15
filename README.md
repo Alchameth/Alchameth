@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alchameth
-- 👀 I’m interested in biking, rollerblading & moderation bots. I have a passion about community management and clean looking information channels!
-- 🌱 I'm a moderatof & manager for all things PAYDAY. Ergo, I am the PAYDAY guy. (duh)
+- 👀 I’m interested in biking, rollerblading and creating cool moments with drones.
+- 🤖 I love moderation bots. I have a passion about community management and clean looking information channels!
+- 🌱 I'm a moderator & manager for all things PAYDAY. Ergo, I am the PAYDAY guy. (duh)
 
 - ✨ A journey of a thousand miles begins with a single step.
 
